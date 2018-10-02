@@ -11,6 +11,8 @@ The staging area is where we can prepare the files we want to add to the commit.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+We can add the changes we made to the staging area where we can then decide weather to commit the change to the repo or not.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
