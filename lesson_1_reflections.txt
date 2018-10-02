@@ -1,0 +1,12 @@
+It basically saved loads of times which i would have otherwise have spent looking out to find the error.
+
+why files are treated together in git?
+
+Files are treated together becuase it is often that they are connected to each other. while other version control systems dont neccesarilty cater coding and the files saved on them arent ofteb related
+
+
+HOW TO USE THE COMMAND GIT LOG AND GIT DIFF TO VIEW THE HISTORY OF FILES?
+
+the commands git log allows us to have a look at all the commits History and provides the authors_name, commit ID , date and the commit description.
+
+the commit id's can then be used with the "git diff" to get the differences between two commits. additions and deletions of line in the code. 

@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+when you initilase a repo a .git file is created which i think is the metadata and stores the history of the repository.
