@@ -16,6 +16,8 @@ We can add the changes we made to the staging area where we can then decide weat
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+When one wants to add  a new feature but doesnt want to end up and messing up with the master branch he can make the changes in the new branch and then it can be later merged with the new code.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
