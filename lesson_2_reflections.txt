@@ -20,6 +20,8 @@ When one wants to add  a new feature but doesnt want to end up and messing up wi
 
 How do the diagrams help you visualize the branch structure?
 
+It gives a better way of tracking the parent.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
