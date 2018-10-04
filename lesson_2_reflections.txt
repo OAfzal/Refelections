@@ -29,3 +29,6 @@ Merging two branches helped in adding two features at the same time. We represen
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Git allows the user to edit the code when a conflict occurs and that is a good option that it doesnt choose to resolve the conflicts itself and lets the user 
+do the job.
