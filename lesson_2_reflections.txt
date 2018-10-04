@@ -25,5 +25,7 @@ It gives a better way of tracking the parent.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Merging two branches helped in adding two features at the same time. We represent it in the diagram because it helps us in having a better understanding of identifying the parents of the branches.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
