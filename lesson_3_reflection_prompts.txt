@@ -16,3 +16,8 @@ Branches is a tree of commits linked together.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 if any changes are made to the local repo then the last known state does not match with our local repo and hence git status shows this to us.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+It would be harder to collaborate without using github as version-controlling would get a lot harder. One possible option would be to setup time slots in which we would decide before time what we are going to do.
+
